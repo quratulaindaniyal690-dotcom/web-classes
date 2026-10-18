@@ -1,0 +1,82 @@
+body {
+    background-color:rgb(250, 207, 155);
+}
+
+.box1 {
+    background-color: rgb(155, 152, 152);
+    width: 100px;
+    height: 100px;
+}
+
+.box2 {
+    background-color: rgb(255, 255, 0);
+    width: 100px;
+    height: 100px;
+    margin: 0px 100px;
+}
+
+.box3 {
+    background-color: rgb(243, 237, 237);
+    width: 100px;
+    height: 100px;
+     margin: 0px 200px;
+}
+
+.box4 {
+    background-color: rgb(255, 0, 0);
+    width: 100px;
+    height: 100px;
+     margin-top: -200px;
+    margin-left: 300px;
+    
+}
+
+.box5 {
+    background-color: rgba(47, 151, 5, 0.863);
+    width: 100px;
+    height: 100px;
+     margin-top: -200px;
+    margin-left: 400px;
+}
+
+.box6 {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    margin-top: 0px;
+    margin-left: 500px;
+}
+
+.box7 {
+    background-color: rgb(15, 157, 252);
+    width: 100px;
+    height: 100px;
+    margin-top: 0px;
+    margin-left: 600px;
+}
+
+.box8 {
+    background-color: rgb(32, 236, 5);
+    width: 100px;
+    height: 100px;
+     margin-top: -200px;
+    margin-left: 700px;
+}
+
+.box9 {
+    background-color: rgb(252, 122, 252);
+    width: 100px;
+    height: 100px;
+       margin-top: -200px;
+    margin-left: 800px;
+}
+
+h1{
+    color: rgb(32, 9, 133);
+    text-align: center;
+}
+
+.one{
+    width: 75%;
+    margin: auto;
+}
